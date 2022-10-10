@@ -1,5 +1,5 @@
 Ejemplo de ramas locales.
 
-Entrada/salida - Solo funciona para enteros
+Entrada/salida - Funciona para cualquier tipo de datos 
 
 Operaciones aritmética con enteros: + - * /
