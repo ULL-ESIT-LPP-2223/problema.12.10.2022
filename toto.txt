@@ -3,3 +3,5 @@ Ejemplo de ramas locales.
 Entrada/salida - Funciona para cualquier tipo de datos 
 
 Operaciones aritmética con enteros: + - * /
+Operaciones aritméticas con reales: + - * /
+Operaciones aritméticas con complejos: + - * /
